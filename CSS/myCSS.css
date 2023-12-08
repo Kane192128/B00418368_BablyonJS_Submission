@@ -1,0 +1,15 @@
+h1 {
+    margin-left: 75vh;
+}
+
+nav {
+    color: aliceblue;
+    background-color: black;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 25px;
+}
